@@ -1,0 +1,22 @@
+site_name: Bot Builder Community
+nav:
+  - Home: 'index.md'
+  - Repositories: 'repos.md'
+  - Samples: 'samples.md'
+  - Packages: 'packages.md'
+theme:
+  name: 'material'
+  palette:
+    primary: 'blue'
+  logo: 'images/icon.png'
+  feature:
+    tabs: true
+markdown_extensions:
+  - admonition
+  - codehilite:
+     guess_lang: false
+  - toc:
+      permalink: true
+extra_css:
+  - 'css/styles.css'
+repo_url: https://github.com/BotBuilderCommunity/BotBuilderCommunity.github.io
