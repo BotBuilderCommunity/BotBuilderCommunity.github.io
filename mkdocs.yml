@@ -56,3 +56,4 @@ extra_css:
   - 'css/styles.css'
 repo_url: https://github.com/BotBuilderCommunity/BotBuilderCommunity.github.io
 edit_uri: blob/master/docs
+docs_dir: docs/
