@@ -1,17 +1,10 @@
-# Welcome to MkDocs
+# Welcome to the Bot Builder Community
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+This community project is about to extend the Bot Framework platform with things like components, adapters, recognizers, dialogs and many more. The provided pieces within the Bot Builder Community repositories can be used either in [Bot Framework Composer](https://github.com/microsoft/BotFramework-Composer) or along with the [Bot Framework SDK](https://github.com/microsoft/BotFramework-sdk).
 
-## Commands
+The Bot Builder Community is a community project initiated and owned by the following people:
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- [Arafat Tehsin](https://github.com/arafattehsin)
+- [Gary Pretty](https://github.com/garypretty)
+- [James Mann](https://github.com/jamesemann)
+- [Stephan Bisser](https://github.com/stephanbisser)
